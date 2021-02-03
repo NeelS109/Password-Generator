@@ -24,3 +24,5 @@ var confirmSpecialCharacter;
 var confirmNumericCharacter;
 var confirmUpperCase;
 var confirmLowerCase;
+
+
