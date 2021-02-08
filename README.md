@@ -14,4 +14,4 @@ You can view the deployed website on:
 [Deployed-Password-Genorator](https://neels109.github.io/Password-Generator/)
 
 See demo screenshot below:
-alt[03-javascript-homework-demo.png](./assets/03-javascript-homework-demo.png) 
+[03-javascript-homework-demo.png](./assets/03-javascript-homework-demo.png) 
